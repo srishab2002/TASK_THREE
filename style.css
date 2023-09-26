@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    color: darkmagenta;
+
+}
+.container{
+    margin-left: 2%;
+    margin-right: 5%;
+}
+.overview{
+    margin-top: 20px;
+}
+.sp{
+    margin-left: 3%;
+}
+.linkscoll{
+    margin-left: 3%;
+}
+.firsttable,th,td{
+    border: 1px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+table{
+    margin-top: 20px;
+    width: 50%;
+    
+}
+.firstrow th{
+    background-color: darkmagenta;
+    color: aliceblue;
+}
+.secondrow th{
+    background-color: violet;
+    color: aliceblue;
+}
+.hrlinr{
+    margin-top: 90px;
+    border: 2px solid darkmagenta;
+}
+.footer{
+    margin-top: 20px;
+}
